@@ -1,1 +1,2 @@
 9a8e7cce-dd1e-463f-b632-a81f96824fb7 autoenable=true location=https://gin.g-node.org/templateflow/tpl-MouseIn name=gin-src type=git timestamp=1641375563.103219s
+c8600450-3417-4f4c-91aa-9fc25ae13806 autoenable=true bucket=templateflow datacenter=US encryption=none exporttree=yes fileprefix=tpl-MouseIn host=s3.amazonaws.com name=public-s3 port=80 public=yes storageclass=STANDARD type=S3 versioning=yes timestamp=1641376138.964665s
